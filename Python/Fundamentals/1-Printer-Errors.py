@@ -6,6 +6,6 @@ def printer_error(s):
         arr.append(count)
         denom = len(s)
         numer = denom - sum(arr)
-    print( str(numer) + "/" + str(denom))
+    print(str(numer) + "/" + str(denom))
 
 printer_error("aaabbbbhaijjjm");
